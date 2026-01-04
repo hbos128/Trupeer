@@ -4,7 +4,7 @@ So you've been spending hours editing screen recordings, trying to make them loo
 
 Here's the thing about Trupeer—it's not trying to be everything to everyone. It does one thing really well: turning your messy screen recordings into polished product videos and documentation. No fancy editing skills required. Just record your screen, and let the AI handle the rest.
 
-<img width="3305" height="1812" alt="image" src="https://github.com/user-attachments/assets/5c805898-0674-4141-955c-4ff3a5fdc613" />
+<img width="3231" height="1499" alt="image" src="https://github.com/user-attachments/assets/95419cab-11d3-4648-8343-6e46211bf06b" />
 
 ## Trupeer Introduction
 
